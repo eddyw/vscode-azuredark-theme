@@ -1,7 +1,7 @@
 # Azure Dark Theme
 
 ## Screenshot:
-![](https://raw.githubusercontent.com/eddyw/vscode-azuredark-them/master/themes/screenshot.png)
+![](https://github.com/eddyw/vscode-azuredark-theme/raw/master/themes/screenshot.png)
 
 ## Recommended Settings:
 ```json
