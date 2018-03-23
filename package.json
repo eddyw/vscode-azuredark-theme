@@ -1,0 +1,22 @@
+{
+    "name": "azure-dark-theme",
+    "displayName": "Azure Dark Theme",
+    "description": "Azure Dark Theme",
+    "version": "0.0.1",
+    "publisher": "eddyw",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Azure Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Azure Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
